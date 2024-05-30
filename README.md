@@ -44,14 +44,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Snaketributions! 🐍</h2>
-  <br>
-  <img alt="Snaketributions" src="https://raw.githubusercontent.com/qiewi/qiewi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">📊 Stats 📊</h2>
