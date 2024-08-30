@@ -12,7 +12,7 @@
  
  🔭 I’m currently an IST student at **Bandung Institute of Technology**
  
- 🌱 I’m currently learning **Java, PostgreSQL, and JavaScript**
+ 🌱 I’m currently learning **React and NextJS**
 
  💬 Ask me about **anything! [here](https://instagram.com/rizqeez)**
 
