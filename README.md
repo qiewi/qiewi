@@ -15,6 +15,7 @@ Currently serving as :
 
 • General Director @ Anmategra KM ITB
 • Manager @ Capital Catalyst HMIF ITB
+• Founder @ Gigabit by HMIF
 
  💬 Ask me about **anything! [here](https://instagram.com/rizqeez)**
 
