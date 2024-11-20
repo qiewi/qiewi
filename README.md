@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Qie+!;" />
 </h1>
 
-<h3 align="center">An All-Rounder Wannabe! 🌟</h3>
+<h3>An All-Rounder Wannabe! 🌟</h3>
 
 <br/>
 
@@ -14,14 +14,14 @@ I'm a third-year Information System & Technology student at Institut Teknologi B
 Currently serving as :
 
 • General Director @ Anmategra KM ITB
+<br/>
 • Manager @ Capital Catalyst HMIF ITB
+<br/>
 • Founder @ Gigabit by HMIF
 
- 💬 Ask me about **anything! [here](https://instagram.com/rizqeez)**
+💬 Ask me about **anything! [here](https://instagram.com/rizqeez)**
 
-
-
- </div>
+</div>
  
 <div> 
   <a href="https://www.twitter.com/qiemchi">
@@ -68,14 +68,12 @@ Currently serving as :
 <h2 align="center">📊 Stats 📊</h2>
 <br>
 <div>
-  <img width=390 src="https://streak-stats.demolab.com/?user=qiewi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=100% src="https://streak-stats.demolab.com/?user=qiewi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     
   <br/>
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qiewi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <br/>
-  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/wakatime?username=qiewi" alt="readme stats" />
+
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiewi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
 </div>
