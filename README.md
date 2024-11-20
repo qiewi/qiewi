@@ -5,11 +5,9 @@
 </h1>
 
 <h2>Introduction 🌟</h2>
-
-<br/>
-
 <div>
-I'm a third-year Information System & Technology student at Institut Teknologi Bandung (ITB). I'm a passionate UI/UX Designer & Software Engineer that pursues a career as Full-stack Engineer. Throughout each day, I'm constantly motivated in achieving a balanced future life.
+I'm a third-year Information System & Technology student at Institut Teknologi Bandung (ITB). I'm a passionate UI/UX Designer & Software Engineer 
+that pursues a career as Full-stack Engineer. Throughout each day, I'm constantly motivated in achieving a balanced future life.
 Currently serving as :
 
 • General Director @ Anmategra KM ITB
@@ -35,7 +33,7 @@ Currently serving as :
   </a>
 </div>
  
-<h2>🖥 My Tech Stack! 🖥</h2>
+<h2>🖥 My Tech Stack</h2>
 
 <div>
     
@@ -63,9 +61,9 @@ Currently serving as :
 
 </div>
 
-<h2 align="center">📊 Stats 📊</h2>
+<h2>📊 My Stats</h2>
 <br>
-<div style="gap: 20px;">
+<div style="gap: 20px; display: flex; flex-direction: column">
   <img width=325 src="https://streak-stats.demolab.com/?user=qiewi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiewi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
