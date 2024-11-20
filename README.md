@@ -4,22 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Qie+!;" />
 </h1>
 
-<h2>Introduction 🌟</h2>
-<div>
-I'm a third-year Information System & Technology student at Institut Teknologi Bandung (ITB). I'm a passionate UI/UX Designer & Software Engineer 
-that pursues a career as Full-stack Engineer. Throughout each day, I'm constantly motivated in achieving a balanced future life.
-Currently serving as :
+<h2>💬 Introduction </h2>
+###
+<p align="left">
+I’m a third-year Information Systems & Technology student at Institut Teknologi Bandung (ITB) with a passion for crafting intuitive user experiences and building robust software solutions. As a UI/UX Designer and Software Engineer, I’m on a journey to become a versatile Full-Stack Engineer.
 
+Every day, I’m driven by the goal of achieving a balanced and fulfilling future, both professionally and personally. My projects reflect my dedication to blending design and technology to create meaningful and impactful solutions.
+
+Feel free to explore my repositories and connect with me to collaborate on exciting projects!
+
+<h2 align="left">👔 Currently Working As</h2>  
 • General Director @ Anmategra KM ITB
 <br/>
 • Manager @ Capital Catalyst HMIF ITB
 <br/>
 • Founder @ Gigabit by HMIF
-
-💬 Check out my **portfolio! [here](https://qiewi.space)**
-
-
-</div>
+</p>
+###
  
 <div> 
   <a href="https://www.twitter.com/qiemchi">
@@ -64,8 +65,6 @@ Currently serving as :
 <h2>📊 My Stats</h2>
 <br>
 <div style="gap: 20px; display: flex; flex-direction: column">
-  <img width=325 src="https://streak-stats.demolab.com/?user=qiewi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiewi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
