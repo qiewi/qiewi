@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qiewi.qiewi" />
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Qie+!;" />
 </h1>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div>
  
 I'm a third-year Information System & Technology student at Institut Teknologi Bandung (ITB). I'm a passionate UI/UX Designer & Software Engineer that pursues a career as Full-stack Engineer. Throughout each day, I'm constantly motivated in achieving a balanced future life.
 Currently serving as :
@@ -23,7 +23,7 @@ Currently serving as :
 
  </div>
  
-<div align="center"> 
+<div> 
   <a href="https://www.twitter.com/qiemchi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -37,9 +37,9 @@ Currently serving as :
 
  <hr/>
  
-<h2 align="center">🖥 My Tech Stack! 🖥</h2>
+<h2>🖥 My Tech Stack! 🖥</h2>
 
-<div align="center">
+<div>
     
 ### Programming Languages
 
@@ -67,7 +67,7 @@ Currently serving as :
 
 <h2 align="center">📊 Stats 📊</h2>
 <br>
-<div align=center>
+<div>
   <img width=390 src="https://streak-stats.demolab.com/?user=qiewi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     
   <br/>
