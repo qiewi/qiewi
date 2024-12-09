@@ -11,11 +11,13 @@ I’m a third-year Information Systems & Technology student at Institut Teknolog
 Feel free to explore my repositories and connect with me to collaborate on exciting projects!
 
 <h2 align="left">👔 Currently Working As</h2>  
-• General Director @ Anmategra KM ITB
+• General Director & Front End @ Anmategra KM ITB
 <br/>
 • Manager @ Capital Catalyst HMIF ITB
 <br/>
 • Founder @ Gigabit by HMIF
+<br/>
+• Front End @ Arkavidia 9.0 by HMIF
 </p>
  
 <div> 
