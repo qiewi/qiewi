@@ -47,6 +47,12 @@ Feel free to explore my repositories and connect with me to collaborate on excit
 <h2>📈 My Stats</h2>
 <br>
 <div style="gap: 20px; display: flex; flex-direction: column">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiewi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=full src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiewi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<h2>📈 My Trophies</h2>
+<br>
+<div style="gap: 20px; display: flex; flex-direction: column">
+  <img width=full src="https://github-profile-trophy.vercel.app/?username=qiewi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
 </div>
 
